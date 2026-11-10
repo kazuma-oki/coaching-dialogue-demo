@@ -1,4 +1,4 @@
-:HL["/coaching-dialogue-demo/_next/static/css/ef24ea056c2dd0d5.css","style"]
+:HL["/coaching-dialogue-demo/_next/static/css/19ccfc95633b9dc1.css","style"]
 :HL["/coaching-dialogue-demo/fonts/fonts.css","style"]
-:HL["/coaching-dialogue-demo/images/dialogue-v2-1200.webp","image",{"imageSrcSet":"/coaching-dialogue-demo/images/dialogue-v2-640.webp 640w, /coaching-dialogue-demo/images/dialogue-v2-1200.webp 1200w, /coaching-dialogue-demo/images/dialogue-v2-1536.webp 1536w","imageSizes":"100vw","fetchPriority":"high"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"UEN0TQsF8vnITkGzS-5G-"}
+:HL["/coaching-dialogue-demo/images/hero-v3-1200.webp","image",{"imageSrcSet":"/coaching-dialogue-demo/images/hero-v3-640.webp 640w, /coaching-dialogue-demo/images/hero-v3-1200.webp 1024w","imageSizes":"(min-width: 768px) 46vw, 85vw","fetchPriority":"high"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"AHAlxx1kjEAxTKcSTT-aQ"}
